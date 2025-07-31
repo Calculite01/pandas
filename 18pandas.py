@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv('15oopbasics/bookdata.csv')
+df = pd.read_csv('bookdata.csv')
 
 # print("All book data")
 # print(df)
